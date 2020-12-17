@@ -1,2 +1,2 @@
-# by Badass-ProGrammer
+# Drum-Simulator by Badass-ProGrammer
 
